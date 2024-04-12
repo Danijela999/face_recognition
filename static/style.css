@@ -1,0 +1,17 @@
+.not-visible {
+  display: none;
+}
+body {
+  background-color: burlywood;
+}
+#capture-btn {
+  background-color: darkslategrey;
+}
+#reload-btn {
+  background-color: cadetblue;
+}
+.logout-text {
+  color: darkslategrey;
+  font-size: xx-large;
+  text-align: left;
+}
